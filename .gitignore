@@ -5,3 +5,12 @@ include/
 lib/
 lib64/
 share/
+
+# for virtual environment
+bin/
+include/
+lib/
+lib64/
+lib64
+ttx.1
+pyvenv.cfg
